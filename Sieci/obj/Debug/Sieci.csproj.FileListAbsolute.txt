@@ -1,0 +1,11 @@
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\bin\Debug\Sieci.exe.config
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\bin\Debug\Sieci.exe
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\bin\Debug\Sieci.pdb
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\bin\Debug\SimpleTCP.dll
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.csprojAssemblyReference.cache
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.Form1.resources
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.Properties.Resources.resources
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.csproj.GenerateResource.cache
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.csproj.CopyComplete
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.exe
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Sieci\obj\Debug\Sieci.pdb

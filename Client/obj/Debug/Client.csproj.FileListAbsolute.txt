@@ -1,0 +1,10 @@
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\bin\Debug\Client.exe.config
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\bin\Debug\Client.exe
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\bin\Debug\Client.pdb
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\bin\Debug\SimpleTCP.dll
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.Form1.resources
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.exe
+C:\Users\games\Desktop\SieciKomputrowe\lab9\Client\obj\Debug\Client.pdb
